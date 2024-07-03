@@ -141,6 +141,12 @@ div.project h2{
     background-color: #223040;
 }
 
+.logo{
+    width: 125px;
+    margin: 0 0;
+    padding: 0 0;
+}
+
 @media (max-width: 600px){
     .googleform{
         color: white;
